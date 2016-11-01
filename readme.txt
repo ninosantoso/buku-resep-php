@@ -1,3 +1,6 @@
-Repo ini berisikan file-file untuk buku "SQL: Kumpulan Resep Query Menggunakan
-MySQL" (penulis Steven Haryanto, penerbit Dian Rakyat, 198 halaman, tahun 2005).
-Buku ini sudah habis cetak (out of print).
+Repo ini berisikan file-file untuk buku "PHP: Kumpulan Resep Pemrograman"
+(penulis Steven Haryanto, penerbit Dian Rakyat, 197 halaman, tahun 2004). Buku
+ini sudah habis cetak (out of print).
+
+- Link:
+- http://www.goodreads.com/book/show/6149644-php
